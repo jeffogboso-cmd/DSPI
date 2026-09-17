@@ -1,0 +1,19 @@
+5. Device DRIVERS
+
+175 
+
+
+
+Located at Network Adapters
+
+Intel(R)
+
+6.1
+Used RAM in MB= 779MB
+CPU in Percentage= moving between 2% to 14%
+
+6.2
+"C:\Program Files\Google\Chrome\Application\chrome.exe"
+
+
+
